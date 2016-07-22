@@ -1,0 +1,8 @@
+files:
+  - 
+    source: >
+      /TMessagesProj/src/main/res/values/strings.xml
+    translation: '/TMessagesProj/src/main/res/values-%two_letters_code%/strings.xml'
+    languages_mapping:
+      two_letters_code:
+        zh-CN: zh-rCN
